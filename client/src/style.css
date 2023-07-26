@@ -54,18 +54,18 @@ button {
     display: flex;
     flex-direction: column;
     gap: 20px;
-
-     input {
+}
+input {
       width: 250px;
       padding: 10px;
       border: 1px solid gray;
     }
 
-    textarea {
+textarea {
       padding: 10px;
     }
 
-    .formButton {
+.formButton {
       border: none;
       padding: 10px;
       background-color: white;
@@ -74,4 +74,4 @@ button {
       font-weight: bold;
       cursor: pointer;
     }
-  }
+  
