@@ -1,11 +1,11 @@
-# Project: Bay Book
+# Project: Buy Book
 
-The **Bay Book** project is a web application that allows clients to manage a list of books.
+The **Buy Book** project is a web application that allows clients to manage a list of books.
 Clients can add new books, update existing book details, delete books. The application is built using JavaScript, React, HTML, and CSS.
 
 ## Features
 
-The **Bay Book** application provides the following features:
+The **Buy Book** application provides the following features:
 
 1. **View Book List**: Clients can view the list of books along with their prices.
 
